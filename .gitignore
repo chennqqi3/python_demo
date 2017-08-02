@@ -4,3 +4,6 @@
 /src/test/tool/csdn/account.txt
 /src/test/tool/wechat/pub_chat/pub_account.txt
 /src/test/tool/mail/mail_account.txt
+/src/test/tool/taobao/account.txt
+src/test/selenium/
+src/test/tool/taobao/account
