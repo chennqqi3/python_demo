@@ -1,0 +1,7 @@
+1501671857642	geckodriver	INFO	geckodriver 0.18.0
+1501671857648	geckodriver	INFO	Listening on 127.0.0.1:58447
+1501671859825	geckodriver::marionette	INFO	Starting browser D:\install\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1501671873539	Marionette	INFO	Listening on port 58459
+1501671873674	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=ja&json=1&p=3&sid=1439_21100_17001_22073&req=2&csor=2&pwd=j&cb=jQuery1102006539403022540757_1501671875628&_=1501671875631, line 1: TypeError: jQuery1102006539403022540757_1501671875628 is not a function
+1501671882441	Marionette	INFO	Ceased listening
