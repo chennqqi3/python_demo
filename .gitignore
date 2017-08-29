@@ -7,3 +7,5 @@
 /src/test/tool/taobao/account.txt
 src/test/selenium/
 src/test/tool/taobao/account
+/src/test/geckodriver.log
+/src/test/tool/mail/360mail_account.txt

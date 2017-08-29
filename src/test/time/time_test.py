@@ -19,4 +19,4 @@ print(int(round(time.time()*1000)))
 # 1498549402.0
 print(time.mktime(datetime.datetime.now().timetuple()))
 
-print(datetime.datetime.now().strftime('%Y%m%d%H%M%S'))
+print(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
